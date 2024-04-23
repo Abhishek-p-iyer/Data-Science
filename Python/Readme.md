@@ -1,1 +1,16 @@
 
+In this module we will cover the following
+1. [[Overview of Python]]
+2. [[Data Structures]]
+3.  [[Pandas]]
+4. [[Exploratory Data Analysis]]
+5. [[Fundamental Statistics]]
+6. [[Data Visualizations]]
+7. [[Data Wrangling, Cleaning and Tidying]]
+8. [[Machine Learning Fundamentals]]
+9. [[ML with scikit-learn]]
+10. [[Introduction to Deep Learning]]
+11. [[ML with TensorFlow]]
+12. [[Natural Language Processing]]
+13. [[Neural Networks]]
+14. [[AI]]
