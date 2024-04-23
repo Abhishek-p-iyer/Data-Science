@@ -1,12 +1,13 @@
 ## ORDER OF LINKS:
 
 
--PANDAS
-  -Introduction to a DataFrame
+#### PANDAS - (Main file) 
+  - Introduction to a DataFrame
   - Modifying a DataFrame
   - Aggregates in Pandas
   - Multiple Tables in Python
 
+## Overview
 - The [[Introduction to a DataFrame]] will work with the basics of manipulating single tables in pandas, creating a table from scratch, loading data from another file and selecting certain rows or columns of a table. 
 
 - We will also look into [[Modifying a DataFrame]] where we add columns, use lambda functions and rename columns. 
