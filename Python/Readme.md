@@ -1,5 +1,5 @@
 
-In this module we will cover the following
+In this repo we will cover the following:
 1. [[Overview of Python]]
 2. [[Data Structures]]
 3.  [[Pandas]]
