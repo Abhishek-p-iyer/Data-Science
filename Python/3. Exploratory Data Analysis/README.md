@@ -1,3 +1,5 @@
+## Exploratory Data Analysis
+
 _Exploratory Data Analysis_ (EDA for short) is all about getting curious about your data – finding out what is there, what patterns you can find, and what relationships exist. EDA is the important first step towards analysis and model building. When done well, it can help you formulate further questions and areas for investigation, and it almost always helps uncover aspects of your data that you wouldn’t have seen otherwise.
 
 Before we start the EDA process, lets look into the fundamentals of [[Variable Types]]. There are two kinds of variable types that exist in Python 
